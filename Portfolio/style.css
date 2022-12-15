@@ -1,0 +1,164 @@
+.background{
+    background-color: #474f79;
+    bottom: 100%;
+    background-image: url("image/abstract-business-science-computer-technology-1521773.jpg");
+}
+.back {
+    background-color: #474f79;
+    background-image: url("image/abstract-business-science-computer-technology-1521773.jpg");
+}
+.barre {
+    width: 100%;
+    margin-top: -15%;
+    margin-left: 0%;
+    margin-right: 0%;
+    position: absolute;
+    background: #2a2cbd;
+    padding-bottom: 1.5%;
+    padding-top: 1%;
+    background-image: url("image/vector.jpg");
+    
+}
+.barre1 {
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    position: absolute;
+    background: #2a2cbd;
+    padding-bottom: 1.5%;
+    padding-top: -2%;
+    background-image: url("image/vector.jpg");
+    
+}
+.lien a:hover {
+    color: #0d9400;
+}
+.lien a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 26px;
+
+    
+}
+.lien {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 170%;
+    padding-top: 1%;
+   
+}
+.box-button {
+    text-decoration: none;
+    border-radius: 2%;
+    background: #b10f00;
+    text-align: center;
+    cursor: pointer;
+    font-size: 120%;
+    color: rgb(255, 255, 255);
+    border: 0;
+    outline:0;
+    padding: 20px ;
+   
+}
+.bouton {
+    margin-top: -240px;
+    
+}
+.bouton1 {
+    margin-top: 20px;
+    
+}
+.titre {
+    color: rgb(255, 255, 255);
+    font-size: 350%;
+    margin-top: 15%;
+    margin-left: 32%;
+}
+
+.download {
+    position: absolute;
+    left : 43%;
+    top: 135%;
+    padding-bottom: 20%;;
+}
+.CV {
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+.presentation {
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    margin-left: 650px;
+    font-size: 50px;
+}
+.white {
+    width: 100%;
+    height: 10%;
+    margin-top: 50%;
+    margin-bottom: 20%;
+    margin-left: 0%;
+    margin-right: 0%;
+    position: absolute;
+    border: 50% solid #fff;
+    background: #fff;
+}
+
+.barrebottom {
+    background-image: url("image/vector.jpg");
+    width: 100%;
+    height: 25%;
+    margin-top: 80%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 60%;
+    position: absolute;
+    padding-bottom: -10%;
+}
+.num {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 100%;
+    padding-top: 1%;
+    
+}
+.num:hover {
+    color: #0d9400;
+}
+.nu {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 150%;
+    padding-top: 3%;
+    margin-left: 10%;
+}
+.mail {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 100%;
+    padding-top: 1%;
+    
+}
+.mai {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 160%;
+    padding-top: 2%;
+    margin-left: 10%;
+    
+}
+.mail:hover {
+    color: #0d9400;
+}
+.barrebottom1 {
+    background-image: url("image/vector.jpg");
+    width: 100%;
+    height: 200px;
+    margin-top: 80%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 60%;
+    position: absolute;
+    padding-bottom: -10%;
+}
