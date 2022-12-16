@@ -31,8 +31,20 @@
     background-image: url("image/vector.jpg");
     
 }
+.barre2 {
+    width: 100%;
+    margin-top: -18%;
+    margin-left: 0%;
+    margin-right: 0%;
+    position: absolute;
+    background: #2a2cbd;
+    padding-bottom: 1.5%;
+    padding-top: 1%;
+    background-image: url("image/vector.jpg");
+    
+}
 .lien a:hover {
-    color: #0d9400;
+    color: #11ce00;
 }
 .lien a{
     text-decoration: none;
@@ -51,7 +63,7 @@
 .box-button {
     text-decoration: none;
     border-radius: 2%;
-    background: #b10f00;
+    background: #0c9500;
     text-align: center;
     cursor: pointer;
     font-size: 120%;
@@ -78,14 +90,20 @@
 
 .download {
     position: absolute;
-    left : 43%;
+    left : 44%;
     top: 135%;
+    padding-bottom: 20%;;
+}
+.download1 {
+    position: absolute;
+    left : 42%;
+    top: 165%;
     padding-bottom: 20%;;
 }
 .CV {
     position: absolute;
     top: 25%;
-    left: 35%;
+    left: 33%;
 }
 .presentation {
     color: rgb(255, 255, 255);
@@ -93,16 +111,24 @@
     margin-left: 650px;
     font-size: 50px;
 }
+.titre1 {
+    color: rgb(255, 255, 255);
+    font-size: 300%;
+    margin-top: 18%;
+    margin-left: 35%;
+}
 .white {
-    width: 100%;
-    height: 10%;
-    margin-top: 50%;
+    width: 90%;
+    height: 48%;
+    margin-top: 26%;
     margin-bottom: 20%;
-    margin-left: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
     margin-right: 0%;
+    margin-left: 0%;
     position: absolute;
     border: 50% solid #fff;
-    background: #fff;
+    background: #fff;   
 }
 
 .barrebottom {
@@ -124,7 +150,10 @@
     
 }
 .num:hover {
-    color: #0d9400;
+    color: #11ce00;
+}
+.num2:hover {
+    color: #11ce00;
 }
 .nu {
     text-decoration: none;
@@ -149,16 +178,60 @@
     
 }
 .mail:hover {
-    color: #0d9400;
+    color: #11ce00;
+}
+.mail2:hover {
+    color: #11ce00;
 }
 .barrebottom1 {
     background-image: url("image/vector.jpg");
     width: 100%;
     height: 200px;
-    margin-top: 80%;
+    margin-top: 18%;
     margin-left: 0%;
     margin-right: 0%;
     margin-bottom: 60%;
     position: absolute;
     padding-bottom: -10%;
+}
+
+.barrebottom2 {
+    background-image: url("image/vector.jpg");
+    width: 100%;
+    height: 200px;
+    margin-top: 67%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 60%;
+    position: absolute;
+    padding-bottom: -10%;
+}
+.nu2 {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 150%;
+    padding-top: 3%;
+    margin-left: 10%;
+}
+.mail2 {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 100%;
+    padding-top: 1%;
+    
+}
+.mai2 {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 160%;
+    padding-top: 2%;
+    margin-left: 10%;
+    
+}
+.num2 {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 100%;
+    padding-top: 1%;
+    
 }
